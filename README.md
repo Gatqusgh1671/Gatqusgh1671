@@ -6,16 +6,15 @@
 ---
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,Java)](https://skillicons.dev)
 
 ### Technologies
 
 - Flutter
 - React
 - Node.js
-- PHP
-- AWS
-- WordPress
+- OOP
+- Java
 
 ---
 
