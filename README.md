@@ -6,7 +6,7 @@
 ---
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,flutter)](https://skillicons.dev)
 
 ### Technologies
 
@@ -15,6 +15,7 @@
 - Node.js
 - OOP
 - Java
+- cpp
 
 ---
 
