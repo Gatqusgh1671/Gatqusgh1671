@@ -6,7 +6,7 @@
 ---
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,Java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 
 ### Technologies
 
